@@ -1,0 +1,3 @@
+Injeção de Dependência é um padrão de projeto que ajuda muito a deixar o código desacoplado, melhora a legibilidade e interpretação do código, melhora a distribuição de responsabilidades entre as classes e facilita a manutenção do código.
+
+É uma forma de aplicar inversão de controle em uma classe que utiliza funcionalidades de outras classes, tirando a responsabilidade dela de instanciar ou buscar objetos dessas outras classes das quais ela depende.
